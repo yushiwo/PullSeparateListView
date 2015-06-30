@@ -1,5 +1,7 @@
 ![效果图](capture.gif)
 
+test
+
 到达顶部或底部继续拉动时，实现Item间的相互分离，有两种模式：
 
 1.全部分离的模式，即屏幕内所有Item都会分离
@@ -24,6 +26,6 @@
 		app:separate_all="true"
         >
     </com.chiemy.pullseparate.PullSeparateListView>
-
+     
 
 另外还添加了点击缩放的效果
